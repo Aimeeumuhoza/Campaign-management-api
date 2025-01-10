@@ -28,7 +28,7 @@ cd Campaign-management-api
 Navigate to the `backend` folder and install the necessary dependencies:
 
 ```bash
-cd backend
+cd Campaign-management-api
 npm install
 ```
 
